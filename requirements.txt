@@ -2,3 +2,4 @@ python-telegram-bot
 requests
 instagrapi
 fake-useragent
+flask
